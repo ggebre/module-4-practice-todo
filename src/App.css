@@ -44,7 +44,25 @@ h5 {
 .categories > button:first-of-type {
   border-radius: 0.25rem 0 0 0;
 }
-
+/* .label, .delete {
+  border: 2px solid gray;
+  
+}
+.label {
+  width: 15%;
+}
+.text {
+  width: 75%;
+} 
+.delete {
+  width: 10%;
+}
+.task {
+  display: flex;
+  border: 1px solid gray;
+  align-items: center;
+  
+} */
 .tasks {
   border-radius: 0.5rem;
   border: grey solid 0.1rem;
